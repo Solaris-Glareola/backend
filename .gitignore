@@ -161,6 +161,3 @@ cython_debug/
 #.idea/
 logs/
 config.yaml
-
-Dockerfile
-docker-compose.yml
